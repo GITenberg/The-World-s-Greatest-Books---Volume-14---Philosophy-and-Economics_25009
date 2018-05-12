@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4519
     wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25009#The-World-s-Greatest-Books---Volume-14---Philosophy-and-Economics
 gutenberg_issued: '2008-04-06'
 gutenberg_type: Text
 identifiers:
